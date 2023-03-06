@@ -1,29 +1,27 @@
-# calculadora-tailwind
+# Calculadora com tailwind
 
-This template should help get you started developing with Vue 3 in Vite.
+Calculadora feita com objetivo de obter conhecimento nos fundamentos do vue e praticar tailwind.
 
-## Recommended IDE Setup
+![layout]('./src/assets/layout.png')
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Tecnologias utilizadas
+- Vue.js 3
+- Tailwind
+- HTML
+- JavaScript
+- Vite
 
-## Customize configuration
+## Execução do projeto
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+### Baixando as dependências
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Executando no servidor
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
