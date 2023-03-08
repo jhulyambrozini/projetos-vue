@@ -2,7 +2,7 @@
 
 Calculadora feita com objetivo de obter conhecimento nos fundamentos do vue e praticar tailwind.
 
-![layout]('./src/assets/layout.png')
+![layout](./src/assets/layout.png)
 
 ## Tecnologias utilizadas
 - Vue.js 3
