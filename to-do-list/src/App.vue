@@ -1,6 +1,6 @@
 
 <template>
-  <div class="container rounded-4 bg-black shadow pb-4">
+  <div class="container rounded-4 shadow pb-4 bg-color">
     <Cabecalho
     :tarefas-pendentes="pegaTarefasPendentes().length"
     />
@@ -69,4 +69,16 @@
     estado.tarefaTemp = ''
   }
 </script>
+
+<style scoped>
+  .bg-color {
+    background-color: rgb(29, 2, 61);
+  }
+
+  @media (max-width: 426px) {
+    .bg-color {
+      width: 400px;
+    }
+  }
+</style>
 

@@ -5,10 +5,10 @@
                 <input :value="props.tarefaTemp" @change="props.editaTarefaTemp" type="text"
                     placeholder="Digite aqui a tarefa" class="form-control" required>
             </div>
-            <div class="col-md-2 col-sm-2 me-4">
+            <div class="col-md-2 col-sm-2">
                 <button type="submit" class="btn btn-primary">Cadastrar</button>
             </div>
-            <div class="col-md-2 col-sm-2">
+            <div class="col-md-3 col-sm-2">
                 <select class="form-control" @change="props.trocarFiltro">
                     <option value="todas">Todas tarefas</option>
                     <option value="pendentes">Pendentes</option>
