@@ -13,9 +13,9 @@ Bloco de tarefas online, feito com o auxilío das aulas da EBAC.
 Calculadora simples com campos de input, eventos Vue e Bootstrap, feito para concluir atividade proposta pela EBAC.
 
 ## Tecnologias usadas
-- HTML
-- JavaScript
+- Vue.js
 - Vite
+- JavaScript
 - Bootstrap
 - Tailwind
-- Vue.js
+
